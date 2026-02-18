@@ -1,1 +1,1 @@
-# latihan-branch-dicoding
+ini adalah repository untuk latihan branch
